@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "DigiPay",
+    "slug": "digipay",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "platforms": ["ios", "android"],
+    "jsEngine": "hermes",
+    "assetBundlePatterns": ["**/*"],
+    "sdkVersion": "51.0.0"
+  }
+}
