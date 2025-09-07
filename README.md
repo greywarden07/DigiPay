@@ -6,8 +6,8 @@ A React Native mobile app for generating UPI payment QR codes. Use this app to c
 - Create UPI payment QR codes for receiving money
 - Input validation for UPI IDs and payment details
 - Share payment links directly from the app
-- Multiple screens with navigation
-- Clean, user-friendly interface
+- Clean, user-friendly interface with modern design
+- Support for all UPI apps in India
 
 ## Inputs Required for QR Generation
 The app allows you to specify these payment details:
@@ -46,5 +46,11 @@ The generated QR codes work with all UPI-enabled payment apps including:
 - BHIM
 - Banking apps with UPI support
 
+## Demo
+You can view and try the app online at: https://github.com/greywarden07/DigiPay
+
+## Screenshots
+(Add your screenshots here when available)
+
 ## License
-MIT (adjust as needed)
+MIT
